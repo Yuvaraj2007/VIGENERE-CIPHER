@@ -1,10 +1,10 @@
-# VIGENERE-CIPHER
-## EX. NO: 4
- 
+# EX. NO: 4 VIGENERE-CIPHER
+# NAME : YUVARAJ M
+# REG : 212224040377
+# DATE : 31/1/26
 
 ## IMPLEMETATION OF VIGENERE CIPHER
  
-
 ## AIM:
 
 To implement the Vigenere Cipher substitution technique using C program.
